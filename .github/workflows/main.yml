@@ -5,4 +5,5 @@ on:
 
 jobs: 
   call-pipeline:
-    uses: Devops-Fundamentos-v5/devops-pipeline/.github/workflows/main.yml@feature-pipeline
+    uses: vostru/devops-pipeline/.github/workflows/main.yml@feature-pipelinee
+    
